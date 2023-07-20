@@ -1,0 +1,34 @@
+YOU MUST HAVE THESE PACKAGES TO RUN THE CODE SUCCESSFULLY
+
+1] Natural Language Tool Kit(https://github.com/nltk/nltk.git)
+
+the NLTK can be downloaded from the above mentioned github repository.
+
+2] Numpy(https://github.com/numpy/numpy.git)
+
+3] Textblob(https://github.com/sloria/TextBlob.git)
+
+4] Sklearn(https://github.com/scikit-learn/scikit-learn.git)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
